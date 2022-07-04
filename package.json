@@ -15,8 +15,8 @@
     "faunadb": "^4.6.0",
     "next": "12.1.6",
     "next-auth": "^4.6.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-icons": "^4.4.0",
     "sass": "^1.53.0",
     "stripe": "^9.10.0"
@@ -24,7 +24,8 @@
   "devDependencies": {
     "@types/next-auth": "^3.15.0",
     "@types/node": "^18.0.0",
-    "@types/react": "^18.0.14",
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6",
     "typescript": "^4.7.4"
